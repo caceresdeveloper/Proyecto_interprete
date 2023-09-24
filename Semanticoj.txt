@@ -1,0 +1,4 @@
+calcular_costo_viaje: FUNCTION
+tiempo: INTEGER
+
+Análisis semántico completo.
